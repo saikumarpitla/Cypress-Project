@@ -1,0 +1,6 @@
+import './LoginTest.cy'
+import './RequestQuotation.cy'
+import './RetrieveQuotation.cy'
+import './Loginfailure.cy'
+import './EditProfile.cy'
+import './Logout.cy'
